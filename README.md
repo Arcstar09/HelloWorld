@@ -1,2 +1,2 @@
 # HelloWorld
-Tutorial Repository for HelloWorld App
+This application should simply print "Hello, world!" to the screen.
